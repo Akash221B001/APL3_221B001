@@ -1,3 +1,0 @@
-class Duryodhan extends Kaurav {
-
-}
